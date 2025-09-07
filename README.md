@@ -1,2 +1,2 @@
-Base de datos 1
-Repositorio creado para subir los ejercicios grupales que vamos realizando.
+# BaseDeDatos1
+Repositorio creado para subir las entregas de los ejercicios grupales dados en la materia.
