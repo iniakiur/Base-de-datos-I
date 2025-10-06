@@ -1,9 +1,0 @@
-select
- b.nombre,
- b.cuota
-from
- barcos b
-join
- socios s on b.id_socio=s.id_socio
-where
- s.nombre = 'juan perez';
